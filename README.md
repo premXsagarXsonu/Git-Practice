@@ -1,3 +1,4 @@
-This Repo is Created for practcing git and github
+This Repo is Created for practicing git and GitHub
 
-- this is line added from the local repo file in git
+- this is a line added from the local repo file in git
+- this is an example for merge conflict in GitHub
